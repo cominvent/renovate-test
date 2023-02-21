@@ -1,5 +1,5 @@
 # This is a test dep
-commons-io:commons-io = 2.7
+commons-io:commons-io = 2.11.0
 # This glob will not match anything in our project
 org.apache.commons:*=9.9
 # This will match commons-lang3
